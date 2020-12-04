@@ -1,2 +1,2 @@
 # absmarkcalc
-Absorbing Markov chain end-state probability calculator
+Simple absorbing Markov chain end-state probability calculator
